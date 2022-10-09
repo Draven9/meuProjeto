@@ -1,0 +1,15 @@
+Padrões de Projetos
+O Programador Apaixonado
+Algoritmos e estruturas de dados
+Código Limpo
+Como Ser um Programador Melhor: um manual para programadores que se importam com código
+Expressões Regulares: Uma abordagem divertida
+Domain Driven Design: Atacando as complexidades no coração do software
+Java®: Como programar
+Desenvolvendo Websites com PHP
+Javascript e Jquery: desenvolvimento de interfaces web interativas
+HTML e CSS: projete e construa websites
+Introdução à programação com Python
+Lógica de Programação - Crie seus primeiros programas usando Javascript e HTML
+PHP - Programando com orientação a objetos
+Aprenda programação orientada a objetos em 21 dias

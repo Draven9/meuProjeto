@@ -1,0 +1,26 @@
+[
+    {
+        "titulo":"Titanic",
+        "anoLancamento": 2000,
+        "sinopse": "Tinha espaço para dois. Morreu por amor.",
+        "duracao": 180,
+        "elenco": [
+            {
+                "nome":"Leonardo diCaprio",
+                "anoNascimento": 1978
+            },
+            {
+                "nome":"Rose",
+                "anoNascimento": 1980
+            }
+        ]
+    },
+    {
+        "titulo":"Amstad",
+        "anoLancamento": 2000
+    },
+    {
+        "titulo":"Vingadores: Ultimato",
+        "anoLancamento": 2019
+    }
+]

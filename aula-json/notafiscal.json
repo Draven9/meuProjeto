@@ -1,0 +1,8 @@
+{
+    "numero": "123456",
+    "dataEmissao": "2022-10-03-T11:01:00",
+    "valor": 1350,
+    "cnpjEmissor": "12.123.123/0001-12",
+    "valorTotal": 1200.55,
+    "produtos": ["Jaca", "Melancia", "Abacaxi"]
+}
